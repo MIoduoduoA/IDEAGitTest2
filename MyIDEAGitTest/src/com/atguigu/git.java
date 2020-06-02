@@ -7,5 +7,6 @@ package com.atguigu;
 public class git {
     public static void main(String[] args) {
         System.out.println("推送数据到GitHub");
+        System.out.println("推送数据到GitHub123");
     }
 }
